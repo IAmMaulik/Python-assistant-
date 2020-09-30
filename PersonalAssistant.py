@@ -143,5 +143,5 @@ if __name__ == '__main__':
                 webbrowser.open('www.google.com')
         
         speak('Next Command! Sir!')
-        print('Next Command! Sir!)
+        print('Next Command! Sir!')
         
